@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page:grey_exclamation:</h1>
 
 <p align="center"> 
- <a href="https://github.com/mihaibuga" alt="mukesh's github">
+ <a href="https://github.com/mihaibuga" alt="mihaibuga's github">
    <img src="https://img.shields.io/badge/-@mihaibuga-%23181717?style=flat-square&logo=github" />
  </a>
 </p>
@@ -16,7 +16,7 @@
 - 
 	> Started coding in 2021
 - 
-	> Currently a Codecool Student
+	> Currently a [Codecool](https://codecool.com/ro/) Student
 -
 	> I have great interest in the experience, architecture and quality of code in my projects
 - 
@@ -48,17 +48,25 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
+
+### Database:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Used Frameworks:
+<p align="left">
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+  	<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+  	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="asp-net" />
   </a>
 </p>
 
@@ -78,28 +86,29 @@
 
 ### Tools I use:
 
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=3d2d00)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&color=3d2d00)
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&color=181717)
 
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&color=5e2750)
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&color=0078d7)
+![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&color=5e2750)
+![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&color=0078d7)
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&color=00a1f1)
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=783bd2)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=for-the-badge&logo=Visual%20Studio%20Code&color=00a1f1)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=for-the-badge&logo=Visual%20Studio&color=783bd2)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&color=ef5b25)
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=181717)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&color=ef5b25)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=NPM&color=181717)
 
-![](https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&color=181717)
-
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
 
 ## 📈 My GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihaibuga&custom_title=My%20Github%20Stats&count_private=true&show_icons=true&theme=github_dark" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihaibuga&custom_title=My%20Github%20Stats&count_private=true&show_icons=true&theme=github_dark" alt="mihaibuga" />
 
 ----
 
