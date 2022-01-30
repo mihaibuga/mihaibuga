@@ -28,9 +28,6 @@
   <a href="https://linkedin.com/in/mihai-buga" target="blank">
   	<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mihai-buga" width="40" />
   </a>
-  <a href="https://instagram.com/mihaibuga_" target="blank">
-  	<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="mihaibuga_" width="40" />
-  </a>
 </p>
 
 <br />
