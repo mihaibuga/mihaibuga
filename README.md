@@ -1,5 +1,5 @@
 <h1 align="center">
-    Welcome:grey_exclamation:
+    Welcome!
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />
 </h1>
 
